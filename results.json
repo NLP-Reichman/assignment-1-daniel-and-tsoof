@@ -14,7 +14,7 @@
       "en_on_tl": 54.8,
       "en_on_nl": 48.08
     },
-    "test_match": "KeyError('source')",
+    "test_match": "ValueError('If using all scalar values, you must pass an index')",
     "test_generate": {
       "english_2_gram": "I amispust dyet d hi I'\ud83c\udf1a",
       "english_3_gram": "I amn\ud83d\udc3azw\ud83d\ude43xu\ud83d\ude28a h\u2605ub\ud83d\udd0cdl\u2709hm",
